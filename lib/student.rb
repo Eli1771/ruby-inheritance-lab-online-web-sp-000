@@ -3,6 +3,6 @@ require relative "user.rb"
 class Student < User 
   
   def initialize
-    KNOWLEDGE = []
+    knowledge = []
   end 
 end
