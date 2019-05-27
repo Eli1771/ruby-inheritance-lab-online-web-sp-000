@@ -1,3 +1,5 @@
+require relative "../student.rb"
+
 class Student < User 
   
   def initialize
